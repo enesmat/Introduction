@@ -2,7 +2,9 @@
 // z.B. 'linux': 'certificates/linux_cert.jpg'
 const skillImageMap = {
   "linux & bash": "./certificates/linux_bash_cert.jpg",
-  "python": "./certificates/python_cert.jpg"
+  "python": "./certificates/python2_cert.jpg",
+  "SQL": "./certificates/sql_cert.jpg",
+  "CSS": "./certificates/css_cert.jpg",
   // Weitere Zuordnungen möglich ...
   // Skills ohne Eintrag erhalten "Zertifikat ist in progress"
 };
