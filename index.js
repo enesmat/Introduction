@@ -5,6 +5,10 @@ const skillImageMap = {
   "python": "./certificates/python2_cert.jpg",
   "sql": "./certificates/sql_cert.jpg",
   "css": "./certificates/css_cert.jpg",
+  "cicd": "./certificates/cicd_cert.png",
+  "docker": "./certificates/docker_cert.png",
+  "kubernetes": "./certificates/kubernetes_cert.png",
+  "terraform": "./certificates/terraform_cert.png",
   // Weitere Zuordnungen möglich ...
   // Skills ohne Eintrag erhalten "Zertifikat ist in progress"
 };
